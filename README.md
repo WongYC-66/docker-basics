@@ -14,6 +14,6 @@
 - docker build -t `imagename`
 
 
-## Can put commands above in docker-compose.yml
+## Can put commands above in Dockerfile and docker-compose.yml
 - docker compose up --build -d
 - docker compose down
